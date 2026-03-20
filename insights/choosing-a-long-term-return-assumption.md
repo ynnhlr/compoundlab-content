@@ -5,7 +5,7 @@ publishedAt: 2026-03-18
 updatedAt: 2026-03-18
 ---
 
-NEW Most investing calculators become misleading the moment the return assumption stops feeling realistic. A model can be beautifully built and still produce weak planning decisions if the growth rate is selected mainly because it makes the final balance look encouraging.
+Most investing calculators become misleading the moment the return assumption stops feeling realistic. A model can be beautifully built and still produce weak planning decisions if the growth rate is selected mainly because it makes the final balance look encouraging.
 
 ## Start with the planning job
 
